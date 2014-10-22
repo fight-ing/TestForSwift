@@ -1,3 +1,3 @@
 just test for swift,include :
 basic prammar 
-UI
+UI -- UIButton UILabel,UIScrollView,UIImageView,UITableView
